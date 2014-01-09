@@ -1,0 +1,52 @@
+1way
+cache size=1K
+miss rate=21.0556%
+cache size=2K
+miss rate=18.7126%
+cache size=4K
+miss rate=17.2048%
+cache size=8K
+miss rate=8.87097%
+cache size=16K
+miss rate=7.70161%
+cache size=32K
+miss rate=1.69499%
+2way
+cache size=1K
+miss rate=8.51526%
+cache size=2K
+miss rate=6.43577%
+cache size=4K
+miss rate=5.17281%
+cache size=8K
+miss rate=3.47062%
+cache size=16K
+miss rate=1.99165%
+cache size=32K
+miss rate=1.45305%
+4way
+cache size=1K
+miss rate=5.22321%
+cache size=2K
+miss rate=4.68606%
+cache size=4K
+miss rate=4.38364%
+cache size=8K
+miss rate=3.38278%
+cache size=16K
+miss rate=2.1227%
+cache size=32K
+miss rate=1.40841%
+8way
+cache size=1K
+miss rate=5.18865%
+cache size=2K
+miss rate=4.64718%
+cache size=4K
+miss rate=4.38796%
+cache size=8K
+miss rate=3.54407%
+cache size=16K
+miss rate=2.24798%
+cache size=32K
+miss rate=1.39257%
