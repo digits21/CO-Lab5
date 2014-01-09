@@ -42,7 +42,8 @@ void simulate(int cache_size, int block_size){
         for(int j=0;j<n_way;j++)cache[i].a[j]=0;
     }
 
-  FILE * fp=fopen("RADIX.txt","r");					//read file
+    FILE * fp=fopen("RADIX.txt","r");					//read file
+    //FILE * fp=fopen("LU.txt","r");					//read file
 
 	while(fscanf(fp,"%x",&x)!=EOF){
 	    count++;
